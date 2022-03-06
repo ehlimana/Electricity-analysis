@@ -1,3 +1,4 @@
+Vidjeti elec_load_profile 2015_16_17_....ipynb
 Potrošnja 2018.: 12.462466508 TWh/god
 Potrošnja 2019.: 13.189138414529998 TWh/god
 Potrošnja 2020.: 12.829603459000001 TWh/god
