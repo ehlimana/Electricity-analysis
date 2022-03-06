@@ -1,11 +1,13 @@
-Energetski bilnas: potrošnja goriva
+Fajlovi: Energy_balance.ipynb, Heat_demand.ipynb i Boiler_heat_pumps.ipynb
+Energetski bilnas 2019: potrošnja goriva 
+(za 2020. treba napraviti, korištena 2019.)
 
 Ugalj: 1.1533333333333333 TWh/god
 Naftni derivati: 0.4122222222222222 TWh/god
 Prirodni gas: 0.7125 TWh/god
 Biomasa: 13.466388888888888 TWh/god
 
-Toplota proizvedena u CHP i toplanama:
+(Energetski bilans 2020.):Toplota proizvedena u CHP i toplanama:
 CHP: 0.4688888888888889 TWh/god
 Toplane: 1.0786111111111112 TWh/god
 
@@ -14,3 +16,6 @@ Gubici mreže uzeti za 30% jer je nerealno da budu 7,7% - dotrajala mreža
 COP za toplotne pumpe uzet kao 4.4 - 25% vrijednosti je do ove, a ujedno da bude blizu COPu
 Stepen iskorištenja kotla na biomasu uzet iz fajla Boilers_Heat_pumps
 Gas, tecno gorivo i ugalj ostavljeni po defaultu.
+
+(Energetski bilans 2019.) Toplotne potrebe za demand lib i HDD uzete
+(za 2020. treba napraviti)
