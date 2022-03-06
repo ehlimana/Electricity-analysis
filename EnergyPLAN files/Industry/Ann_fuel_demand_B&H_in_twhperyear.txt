@@ -1,0 +1,15 @@
+Vidjeti energy_balance.ipynb
+Energetski bilans 2019. (za 2020. treba napraviti):
+
+Ugalj: 2.4652777777777777 TWh/god
+Naftni derivati: 1.318888888888889 TWh/god
+Prirodni gas: 0.8886111111111111 TWh/god
+Biomasa: 0.20027777777777778 TWh/god
+
+various:
+Ugalj: 0.17694444444444443 TWh/god
+Naftni derivati: 0.39222222222222225 TWh/god
+Prirodni gas: 1.0719444444444444 TWh/god
+
+Vidjeti fuel losses
+Distribucija gasa - uzeta 2021.za Srbiju skalirana sa potrebama za 2020.

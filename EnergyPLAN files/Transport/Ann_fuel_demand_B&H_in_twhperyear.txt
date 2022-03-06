@@ -1,0 +1,15 @@
+Svi podaci uzeti za 2020. - Energy balance.ipynb
+Potrošnja - kerozin 2020 0.04383433333333333 TWh/god
+Potrošnja - dizel 2020 11.646237777777777 TWh/god
+Potrošnja - LPG 2020 0.8076533333333333 TWh/god
+Potrošnja - benzin 2020 1.7351625 TWh/god
+
+Naftni derivati 2019: 15.269444444444444 TWh/god
+Gas 2019: 0.02666666666666667 TWh/god
+Električna energija 2019: 0.058888888888888886 TWh/god
+
+Naftni derivati 2020: 15.269444444444444 TWh/god
+Gas 2020: 0.012466758930103758 TWh/god
+Električna energija 2020: 0.059 TWh/god
+
+vidjeti: electric vehicles specification i smart charge i km/kWh u help to design inputs
