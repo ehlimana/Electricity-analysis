@@ -1,18 +1,7 @@
 Vidjeti elec_load_profile 2015_16_17_....ipynb
-Potrošnja 2018.: 12.462466508 TWh/god
-Potrošnja 2019.: 13.189138414529998 TWh/god
-Potrošnja 2020.: 12.829603459000001 TWh/god
 
-Uvoz 2019.: 1518.111 GWh/god
-Uvoz 2020.: 2156.444 GWh/god
+Potrošnja 2020.: 10,67 TWh/god
+Imp/Exp 2020.: 4,05 TWh/gof
 
-Izvoz 2019.: 5099.52 GWh/god
-Izvoz 2020.: 5728.87 GWh/god
 
-Imp/Exp 2019.: -3.581409
-Imp/Exp 2020.: -3.572426
-Imp/Exp 2021.: -4.961745
-
-Potrošnja 2020.: 12.829603459000001 TWh/god
-Additional electricty demand: 1.9318000000000002 TWh/god
-Imp/Exp 2020.: -3.572426 TWh/god
+Additional electricty demand:0,43 TWh/god

@@ -7,8 +7,8 @@ Prirodni gas: 0.8886111111111111 TWh/god
 Biomasa: 0.20027777777777778 TWh/god
 
 various:
-Ugalj: 0.17694444444444443 TWh/god
-Naftni derivati: 0.39222222222222225 TWh/god
+Ugalj: 0.xxx 694444444444443 TWh/god dodata i transformacija uglja - PROVJERA
+Naftni derivati: 0.xx222222222222225 TWh/god - dodata i transformacija uglja PROVJERA
 Prirodni gas: 1.0719444444444444 TWh/god
 
 Vidjeti fuel losses
