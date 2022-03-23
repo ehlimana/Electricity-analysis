@@ -1,0 +1,31 @@
+HEAT AND ELECTRICITY
+Vidjeti TE_HE.ipynb
+CHP - TE Kakanj i TE Tuzla
+u kondenzacijskom modu osim TE Kakanj i TE Tuzla rade i ostale TE
+Ukupan kapacitet - uzet zbir sa mreže prenosa: 1888 MW (indikativni plan razvoja proizvodnje.
+Stepen iskorištenja - uzet od EPBiH za TE Kakanj i TE Tuzla kao srednja vrijednost po blokovima
+CHP mod imaju 2 bloka TE Tuzla i 3 bloka TE Kakanj.
+Od EP BiH uzeta raspoloživa snaga 442 MW za el.energiju
+82 za toplotnu
+Efikasnost - energy_balance.ipynb: 0,21 el i 0,47 topl-
+CENTRAL POWER PRODUCTION:
+Dammed hydro power: 2104,9 MW - indikativni plan razvoja proizvodnje, od toga
+PHE Čapljina unesena u Balancing>Storage>Electricity 2
+Water supply  5,26 GWh- procijenjeno na osnovu stepena iskorištenja i godišnje proizvodnje
+Storage:  6708,872 GWh - proračunato iz NOS BiH indikativni plan razvoja proizvodnje
+Transmission line capacity - otprilike 3100 MW dostupno za uvoz/izvoz. Vidjeti Elec_load.ipynb
+
+UPITNO: External wish for import/export
+Advanced hydropower
+Transmission line capacity 
+External wish - uzet izvoz ili uvoz za 2020. - elec_load_profile.ipynb
+
+VARIABLE RE - podaci pronađeni u izvještaju DERK-a (instalisana snaga za 2020. god)
+Distribucije - Solar.ipynb, TE_HE.ipynb i VE.ipynb
+
+FUEL DISTRIBUTION - energy balance. ipynb 
+i za TE i CHP (pp1 i pp2 - termoelektrane) - ispraviti sve na PP1  - TE_HE.ipynb - stepen iskorištenja i potrošnja goriva
+
+CO2 - vidjeti emissions.ipynb
+
+

@@ -1,0 +1,3 @@
+Za troškove korištena baza EnergyPLAN-a - lifetime i %of investment
+Troškovi - CAPEX i OPEX - Costs.ipynb
+Cijene - Prices.ipynb
