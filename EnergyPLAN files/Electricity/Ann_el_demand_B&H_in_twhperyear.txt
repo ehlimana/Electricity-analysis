@@ -1,7 +1,7 @@
 Vidjeti elec_load_profile 2015_16_17_....ipynb
 
 Potrošnja 2020.: 10,67 TWh/god
-Imp/Exp 2020.: 4,05 TWh/gof
+Imp/Exp 2020.: 4,05 TWh/god - nije stavljen za fixed, razmotriti
 
 
 Additional electricty demand:0,43 TWh/god

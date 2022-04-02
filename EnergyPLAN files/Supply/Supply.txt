@@ -13,7 +13,7 @@ Dammed hydro power: 2104,9 MW - indikativni plan razvoja proizvodnje, od toga
 PHE Čapljina unesena u Balancing>Storage>Electricity 2
 Water supply  5,26 GWh- procijenjeno na osnovu stepena iskorištenja i godišnje proizvodnje
 Storage:  6708,872 GWh - proračunato iz NOS BiH indikativni plan razvoja proizvodnje
-Transmission line capacity - otprilike 3100 MW dostupno za uvoz/izvoz. Vidjeti Elec_load.ipynb
+Transmission line capacity - otprilike 2100 MW dostupno za uvoz/izvoz. Vidjeti Elec_load.ipynb
 
 UPITNO: External wish for import/export
 Advanced hydropower
@@ -24,7 +24,7 @@ VARIABLE RE - podaci pronađeni u izvještaju DERK-a (instalisana snaga za 2020.
 Distribucije - Solar.ipynb, TE_HE.ipynb i VE.ipynb
 
 FUEL DISTRIBUTION - energy balance. ipynb 
-i za TE i CHP (pp1 i pp2 - termoelektrane) - ispraviti sve na PP1  - TE_HE.ipynb - stepen iskorištenja i potrošnja goriva
+i za TE i CHP (pp1 i pp2 - termoelektrane) -   - TE_HE.ipynb - stepen iskorištenja i potrošnja goriva
 
 CO2 - vidjeti emissions.ipynb
 

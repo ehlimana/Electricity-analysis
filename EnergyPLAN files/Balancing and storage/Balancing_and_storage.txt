@@ -1,8 +1,8 @@
-	JOŠ nije uneseno:
-	ELECTRICITY
-	Min. grid stab. share - 0,956 - procenat učešća velikih postrojenja u proizvodnji za 2020. god
 
-	Stabilisation share transmission line - nagađanje
+	ELECTRICITY
+	Min. grid stab. share - 0,986 - procenat učešća velikih postrojenja u proizvodnji za 2020. god
+
+	Stabilisation share transmission line - 0,3
 	Minimum CHP in gr.3: 
 	Minimum PP in gr.3
 
