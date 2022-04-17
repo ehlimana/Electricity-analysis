@@ -1,0 +1,14 @@
+Kreiranje modela V11:
+Gorivo svi variable osim uglja
+eta pp2=0.29
+Prom. eff kotlova na 0.8 u grupi 1 da bi se dobile vrijednosti goriva
+Other vehicles - investment promijenjen
+
+
+Kreiranje modela V12:
+- Sva goriva na variable
+eta pp2=0.29
+Prom. eff kotlova na 0.8 u grupi 1 da bi se dobile vrijednosti goriva
+Other vehicles - investment promijenjen
+Izmijenjena hidroproizvodnja kako bi se podijelila na PHE Čapljian - 420 GWh godišnje i ostatak na ostale HE. 
+Izbrisan trošak investicija u storage i pumped jer je to već sadržano u trošku po MW.
